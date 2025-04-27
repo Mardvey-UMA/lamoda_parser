@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.idea
 checkpoints
 products_result
 lamoda_product_links.json
